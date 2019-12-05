@@ -1,3 +1,11 @@
+---LATEST vesion UBUNTU 8.0.4----
+Follow this links for nagios server and client
+https://www.itzgeek.com/how-tos/linux/ubuntu-how-tos/install-nagios-4-1-1-ubuntu-16-04.html
+https://www.itzgeek.com/how-tos/linux/centos-how-tos/monitor-remote-linux-system-with-nagios-3.html
+
+
+-------this is for ubuntu 6.0------
+
 NAGIOS SERVER 4.0.8
 -------------------
 ```
